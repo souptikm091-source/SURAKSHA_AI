@@ -41,3 +41,34 @@ First-year B.Tech CSE (AI & ML) student
 Open the notebook in Google Colab
 Run all cells in sequence
 Modify input values to test different safety predictions
+
+
+💻 Run Locally (VS Code)
+git clone https://github.com/Souvik-Dey-2029/Suraksha-AI_Women-Safety.git
+cd Suraksha-AI_Women-Safety
+
+# create virtual environment
+python -m venv venv
+
+# activate virtual environment
+# Windows
+venv\Scripts\activate
+# Linux / macOS
+source venv/bin/activate
+
+# install dependencies
+pip install -r requirements.txt
+
+# open project in VS Code
+code .
+
+After opening the project:
+
+1) Add the required CSV dataset to the project root directory
+2) Ensure the dataset filename/path matches what is used in the notebook
+3) Open Suraksha_WomenSafety_ML.ipynb
+4) Select the virtual environment as the kernel
+5) Run all cells sequentially
+
+Follow the steps below to run this project locally using **Visual Studio Code**.
+
