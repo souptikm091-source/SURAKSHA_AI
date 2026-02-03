@@ -44,7 +44,7 @@ Modify input values to test different safety predictions
 
 
 💻 Run Locally (VS Code)
-git clone https://github.com/Souvik-Dey-2029/Suraksha-AI_Women-Safety.git
+git clone https://github.com/Souptik-Mandal-2029/Suraksha-AI_Women-Safety.git
 cd Suraksha-AI_Women-Safety
 
 # create virtual environment
